@@ -39,7 +39,7 @@ export function useMovie(query) {
         setLoading(true);
         setError(""); // Reset error before fetching
         const response = await fetch(
-          `http://www.omdbapi.com/?apikey=${KEY}&s=${debouncedQuery.trim()}`
+          `https://www.omdbapi.com/?apikey=${KEY}&s=${debouncedQuery.trim()}`
         );
 
         if (!response.ok) throw new Error("Something went wrong");
