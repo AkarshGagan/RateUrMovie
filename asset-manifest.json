@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/RateUrMovie/static/css/main.34832201.css",
+    "main.css": "/RateUrMovie/static/css/main.2a498947.css",
     "main.js": "/RateUrMovie/static/js/main.995874a6.js",
     "index.html": "/RateUrMovie/index.html",
-    "main.34832201.css.map": "/RateUrMovie/static/css/main.34832201.css.map",
+    "main.2a498947.css.map": "/RateUrMovie/static/css/main.2a498947.css.map",
     "main.995874a6.js.map": "/RateUrMovie/static/js/main.995874a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.34832201.css",
+    "static/css/main.2a498947.css",
     "static/js/main.995874a6.js"
   ]
 }
